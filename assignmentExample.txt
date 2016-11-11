@@ -1,0 +1,5 @@
+7
+10000
+Aaron Aaronson 0
+Perfect Student 4000
+Bad Student 9000
